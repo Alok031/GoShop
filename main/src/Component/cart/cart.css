@@ -1,0 +1,32 @@
+div .new{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+div .qaa{
+    display: flex;
+    justify-content: flex-end;
+}
+div .qaz{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    color: #fff;
+    margin-bottom: 0px;
+    background: #0c4516;
+}
+.qaz .qwsa{
+    padding-top: 8px;
+    text-align: end;
+}
+.qaz hr{
+    width: 353px;
+    border-width:3px ;
+    margin-bottom: -8px;
+}
+.qaz button{
+    color: white;
+}
+.qaz button:hover{
+    /* color: black; */
+    background-color: blue;
+}

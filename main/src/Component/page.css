@@ -1,0 +1,238 @@
+*{
+    margin: 0%  ;
+    padding: 0%;
+    /* background-color:white; */
+    /* background: grey; */
+    /* height:  vh; */
+}
+.qwer{
+    background-image: url("../online-groceries.jpg");
+    background-blend-mode: lighten;
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+    height: 100vh;
+    width:100%;
+    padding: 60px;
+    color: #eee;
+    background-position: fixed;
+    /* background-size: contain; */
+    /* display: flex; */
+
+    
+    /* back */
+    /* position: relative; */
+    /* scroll-behavior: auto; */
+    /* background-repeat: no-repeat; */
+}
+footer .asdf{
+    width: max-content;
+}
+input .form-control{
+    width: 50%;
+    margin-left: 30%;
+    /* align-items: center; */
+}
+.form-floating {
+    margin-left: 8%;
+    width: 80%;
+}
+.card2{
+    background-color: rgb(0, 0, 0,0.8);
+    color: aliceblue;
+    margin-top: 12%;
+    height: 350px;
+}
+
+.card{
+    /* border-width: 8px; */
+
+    /* box-shadow: inset; */
+    /* background-color: rgb(255, 255, 255,0.5); */
+    /* direction: rtl; */
+    /* box-decoration-break: clone; */
+    /* box-shadow: black; */
+}
+.container{
+    margin-top: 0%;
+}
+.form-outline{
+    display: flex    ;
+    justify-content: center;
+    flex-direction: row;
+    padding-left: 20px;
+    margin: 0%;
+    height: 100%;
+}
+/* .azxs{
+    margin-top: 40px;
+} */
+label{
+    width: 150px;
+    align-items: left;
+    font-size: medium;
+    /* justify-content: left; */
+}
+.form-label{
+
+    display: flex;
+}
+section{
+    height: 60vh;
+    margin-top: 80px;
+    margin-bottom: 0%;
+}
+.log{
+   
+    position: fixed ;
+    scroll-behavior: auto;
+}
+.left{
+    margin-left: 85%;
+    font-size: 18px;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-style:normal;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.menu_active{
+    font-weight: bold;
+    font-size: 20px;
+    /* border-bottom: 4px solid blue; */
+}
+.navbar{
+    height: 80px;
+    padding: 10px 6% ;
+}
+.navbar-nav li{
+    margin: 0 0.9rem;
+} 
+.navbar-nav{
+    margin-left: 40% ;
+}
+.navbar .icons div{
+    height: 2.5rem;
+    /* display: flex;
+    flex-direction: column; */
+    width: 2.5rem;
+    line-height: 2.5rem;
+    border-radius: .5rem;
+    background: #eee;
+    color: black;
+    font-size: 1.1rem;
+    margin-left: 2rem;
+    cursor: pointer;
+
+}
+
+.dropdown-menu  {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dropdown-menu li a:hover {
+    color: white;
+    background-color: rgb(65, 206, 161);
+}
+
+.navbar .icons div:hover{
+    background: rgb(175, 227, 175);
+    color: white;
+}
+#menu-btn{
+    display: none;
+}
+.navbar.icons .search-form{
+   
+    position: absolute;
+    top: 10%;
+    right: 0%;
+    padding: 10px;
+    align-items: center;
+    width: 0px;
+    background: white;
+    display: flex;
+    overflow: hidden;
+    
+}
+.navbar .search-form1{
+   
+    position: absolute;
+    top: 19%;
+    right: 0%;
+    padding: 0px;
+    align-items: center;
+    width: 0px;
+    background: rgb(243, 244, 246);
+    color: #6c757d;
+    display: flex;
+    overflow: hidden;
+    cursor: auto;
+    
+    
+}
+.navbar .search-form1.active{
+    border-radius: 50px;
+    padding: 10px;
+    right: 17rem;
+    width: 15rem;
+    background-color: #eee;
+}
+input#search-box{
+    border-width: 0px;
+    height: 100%;
+    width: 100%;
+    background: none;
+    text-transform: none;
+    font-size: 1rem;
+    outline: none;
+}
+/* .navbar .search-form i{
+    cursor: pointer;
+    font-size: larger;
+}
+.navbar .search-form i:hover{
+    color: green;
+} */
+.btn2{
+    color: #eee;
+    text-decoration:none;
+}
+.btn2 p:hover{
+    color: #eee;
+    cursor: pointer;
+}
+.container .d-flex{
+    flex-direction: row;
+    justify-content: space-between;
+}
+.brand{
+    /* position: relative; */
+    top:20%;
+    left:25%;
+}
+.brand-head{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: 5rem;
+    letter-spacing: 4px;
+    color: #0389fe;
+    text-shadow: 5px 2px grey;
+}
+.brandpar{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: black;
+
+}
+.navbar-brand i{
+    font-size:5vh;
+}
+
+a{
+    cursor: pointer;
+}
+.navname {
+    font-size: 1.4rem;
+  }

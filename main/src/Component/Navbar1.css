@@ -1,0 +1,10 @@
+NavLink{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+}
+li .nav-item{
+    text-decoration: none;
+    color:black
+
+}

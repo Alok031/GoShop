@@ -1,0 +1,115 @@
+.menucard{
+    border: 0px;
+    margin: 80px;
+    display: inline-block;
+}
+.menucard1{
+    margin: none;
+    border: 0px;
+    margin-top: 40px;
+    display: inline-block;
+}
+.menucard3 button{
+    margin: 28px;
+    background-color: #eee;
+    width: 75%;
+    height: 48px;
+    font-size: 23px;
+    border-radius: 18px;
+
+}
+.menucard1 img {
+    margin-top: auto;
+    padding: auto;
+  }
+.menucard3 button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    /* box-shadow: 5px 18px 5px 0 green, 0 17px 50px 0 green; */
+}
+a{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+div .aqws{
+    margin-bottom: 90px;
+}
+.items{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.top{
+    /* box-shadow: 5px 5px rgb(77, 75, 75); */
+}
+div .boxdes{
+    display: flex;
+    justify-items: flex-end;
+    flex-direction: row;
+    justify-content: space-around;
+    /* color: chartreuse; */
+}
+.azxc{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 8px ;
+}
+div .added{
+    align-content: center;
+    width: 110px;
+    border: solid;
+    border-width: 1px;
+    color: white;
+    padding: 5px;
+    background-color: rgb(79, 78, 75);
+}
+span{
+    margin: 9px;
+    padding: 1px;
+    font-weight: bold;
+    font-size: 20px;
+    /* border: solid 2px; */
+}
+
+.added i{
+    width: 30px;
+    background: #000;
+    /* border: solid 1px; */
+    box-shadow: 3px 3px rgb(230, 228, 228);
+   
+}
+button{
+    margin: 8px;
+}
+.card-body1{
+    padding: 0px;
+}
+.card-body1 hr{
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.plm{
+    display: flex;
+
+}
+.right-section{
+    display: inline-block;
+    position: relative;
+}
+
+img{
+    height: 160px;
+    width: 15rem;
+}
+.menu{
+    /* display: inline-block; */
+}
+
+.card-top .imgdiv7{
+    display: flex;
+    justify-content: center;
+}
